@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 25495af3982277740a1a78599166e214
+timeCreated: 1518262634
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pPlane1
+    100004: pPlane1 1
+    100006: pPlane1 2
+    100008: pPlane1 3
+    100010: pPlane10
+    100012: pPlane10 1
+    100014: pPlane10 2
+    100016: pPlane10 3
+    100018: pPlane11
+    100020: pPlane11 1
+    100022: pPlane11 2
+    100024: pPlane11 3
+    100026: pPlane12
+    100028: pPlane12 1
+    100030: pPlane12 2
+    100032: pPlane12 3
+    100034: pPlane13
+    100036: pPlane13 1
+    100038: pPlane13 2
+    100040: pPlane13 3
+    100042: pPlane14
+    100044: pPlane14 1
+    100046: pPlane14 2
+    100048: pPlane14 3
+    100050: pPlane15
+    100052: pPlane15 1
+    100054: pPlane15 2
+    100056: pPlane15 3
+    100058: pPlane16
+    100060: pPlane16 1
+    100062: pPlane16 2
+    100064: pPlane16 3
+    100066: pPlane17
+    100068: pPlane17 1
+    100070: pPlane17 2
+    100072: pPlane17 3
+    100074: pPlane2
+    100076: pPlane2 1
+    100078: pPlane2 2
+    100080: pPlane2 3
+    100082: pPlane3
+    100084: pPlane3 1
+    100086: pPlane3 2
+    100088: pPlane3 3
+    100090: pPlane4
+    100092: pPlane4 1
+    100094: pPlane4 2
+    100096: pPlane4 3
+    100098: pPlane5
+    100100: pPlane5 1
+    100102: pPlane5 2
+    100104: pPlane5 3
+    100106: pPlane6
+    100108: pPlane6 1
+    100110: pPlane6 2
+    100112: pPlane6 3
+    100114: pPlane7
+    100116: pPlane7 1
+    100118: pPlane7 2
+    100120: pPlane7 3
+    100122: pPlane8
+    100124: pPlane8 1
+    100126: pPlane8 2
+    100128: pPlane8 3
+    100130: pPlane9
+    100132: pPlane9 1
+    100134: pPlane9 2
+    100136: pPlane9 3
+    100138: Sidewalk
+    100140: Street
+    100142: UnderBuildings
+    100144: WhiteLines
+    100146: WhiteLines 1
+    100148: WhiteLines1
+    100150: WhiteLines2
+    100152: WhiteLines3
+    100154: Whitelines
+    400000: //RootNode
+    400002: pPlane1
+    400004: pPlane1 1
+    400006: pPlane1 2
+    400008: pPlane1 3
+    400010: pPlane10
+    400012: pPlane10 1
+    400014: pPlane10 2
+    400016: pPlane10 3
+    400018: pPlane11
+    400020: pPlane11 1
+    400022: pPlane11 2
+    400024: pPlane11 3
+    400026: pPlane12
+    400028: pPlane12 1
+    400030: pPlane12 2
+    400032: pPlane12 3
+    400034: pPlane13
+    400036: pPlane13 1
+    400038: pPlane13 2
+    400040: pPlane13 3
+    400042: pPlane14
+    400044: pPlane14 1
+    400046: pPlane14 2
+    400048: pPlane14 3
+    400050: pPlane15
+    400052: pPlane15 1
+    400054: pPlane15 2
+    400056: pPlane15 3
+    400058: pPlane16
+    400060: pPlane16 1
+    400062: pPlane16 2
+    400064: pPlane16 3
+    400066: pPlane17
+    400068: pPlane17 1
+    400070: pPlane17 2
+    400072: pPlane17 3
+    400074: pPlane2
+    400076: pPlane2 1
+    400078: pPlane2 2
+    400080: pPlane2 3
+    400082: pPlane3
+    400084: pPlane3 1
+    400086: pPlane3 2
+    400088: pPlane3 3
+    400090: pPlane4
+    400092: pPlane4 1
+    400094: pPlane4 2
+    400096: pPlane4 3
+    400098: pPlane5
+    400100: pPlane5 1
+    400102: pPlane5 2
+    400104: pPlane5 3
+    400106: pPlane6
+    400108: pPlane6 1
+    400110: pPlane6 2
+    400112: pPlane6 3
+    400114: pPlane7
+    400116: pPlane7 1
+    400118: pPlane7 2
+    400120: pPlane7 3
+    400122: pPlane8
+    400124: pPlane8 1
+    400126: pPlane8 2
+    400128: pPlane8 3
+    400130: pPlane9
+    400132: pPlane9 1
+    400134: pPlane9 2
+    400136: pPlane9 3
+    400138: Sidewalk
+    400140: Street
+    400142: UnderBuildings
+    400144: WhiteLines
+    400146: WhiteLines 1
+    400148: WhiteLines1
+    400150: WhiteLines2
+    400152: WhiteLines3
+    400154: Whitelines
+    2100000: lambert1
+    2300000: //RootNode
+    2300002: pPlane1
+    2300004: pPlane1 1
+    2300006: pPlane1 2
+    2300008: pPlane1 3
+    2300010: pPlane10
+    2300012: pPlane10 1
+    2300014: pPlane10 2
+    2300016: pPlane10 3
+    2300018: pPlane11
+    2300020: pPlane11 1
+    2300022: pPlane11 2
+    2300024: pPlane11 3
+    2300026: pPlane12
+    2300028: pPlane12 1
+    2300030: pPlane12 2
+    2300032: pPlane12 3
+    2300034: pPlane13
+    2300036: pPlane13 1
+    2300038: pPlane13 2
+    2300040: pPlane13 3
+    2300042: pPlane14
+    2300044: pPlane14 1
+    2300046: pPlane14 2
+    2300048: pPlane14 3
+    2300050: pPlane15
+    2300052: pPlane15 1
+    2300054: pPlane15 2
+    2300056: pPlane15 3
+    2300058: pPlane16
+    2300060: pPlane16 1
+    2300062: pPlane16 2
+    2300064: pPlane16 3
+    2300066: pPlane17
+    2300068: pPlane17 1
+    2300070: pPlane17 2
+    2300072: pPlane17 3
+    2300074: pPlane2
+    2300076: pPlane2 1
+    2300078: pPlane2 2
+    2300080: pPlane2 3
+    2300082: pPlane3
+    2300084: pPlane3 1
+    2300086: pPlane3 2
+    2300088: pPlane3 3
+    2300090: pPlane4
+    2300092: pPlane4 1
+    2300094: pPlane4 2
+    2300096: pPlane4 3
+    2300098: pPlane5
+    2300100: pPlane5 1
+    2300102: pPlane5 2
+    2300104: pPlane5 3
+    2300106: pPlane6
+    2300108: pPlane6 1
+    2300110: pPlane6 2
+    2300112: pPlane6 3
+    2300114: pPlane7
+    2300116: pPlane7 1
+    2300118: pPlane7 2
+    2300120: pPlane7 3
+    2300122: pPlane8
+    2300124: pPlane8 1
+    2300126: pPlane8 2
+    2300128: pPlane8 3
+    2300130: pPlane9
+    2300132: pPlane9 1
+    2300134: pPlane9 2
+    2300136: pPlane9 3
+    2300138: Sidewalk
+    2300140: Street
+    2300142: UnderBuildings
+    2300144: Whitelines
+    3300000: //RootNode
+    3300002: pPlane1
+    3300004: pPlane1 1
+    3300006: pPlane1 2
+    3300008: pPlane1 3
+    3300010: pPlane10
+    3300012: pPlane10 1
+    3300014: pPlane10 2
+    3300016: pPlane10 3
+    3300018: pPlane11
+    3300020: pPlane11 1
+    3300022: pPlane11 2
+    3300024: pPlane11 3
+    3300026: pPlane12
+    3300028: pPlane12 1
+    3300030: pPlane12 2
+    3300032: pPlane12 3
+    3300034: pPlane13
+    3300036: pPlane13 1
+    3300038: pPlane13 2
+    3300040: pPlane13 3
+    3300042: pPlane14
+    3300044: pPlane14 1
+    3300046: pPlane14 2
+    3300048: pPlane14 3
+    3300050: pPlane15
+    3300052: pPlane15 1
+    3300054: pPlane15 2
+    3300056: pPlane15 3
+    3300058: pPlane16
+    3300060: pPlane16 1
+    3300062: pPlane16 2
+    3300064: pPlane16 3
+    3300066: pPlane17
+    3300068: pPlane17 1
+    3300070: pPlane17 2
+    3300072: pPlane17 3
+    3300074: pPlane2
+    3300076: pPlane2 1
+    3300078: pPlane2 2
+    3300080: pPlane2 3
+    3300082: pPlane3
+    3300084: pPlane3 1
+    3300086: pPlane3 2
+    3300088: pPlane3 3
+    3300090: pPlane4
+    3300092: pPlane4 1
+    3300094: pPlane4 2
+    3300096: pPlane4 3
+    3300098: pPlane5
+    3300100: pPlane5 1
+    3300102: pPlane5 2
+    3300104: pPlane5 3
+    3300106: pPlane6
+    3300108: pPlane6 1
+    3300110: pPlane6 2
+    3300112: pPlane6 3
+    3300114: pPlane7
+    3300116: pPlane7 1
+    3300118: pPlane7 2
+    3300120: pPlane7 3
+    3300122: pPlane8
+    3300124: pPlane8 1
+    3300126: pPlane8 2
+    3300128: pPlane8 3
+    3300130: pPlane9
+    3300132: pPlane9 1
+    3300134: pPlane9 2
+    3300136: pPlane9 3
+    3300138: Sidewalk
+    3300140: Street
+    3300142: UnderBuildings
+    3300144: Whitelines
+    4300000: GroundPlane
+    4300002: UnderBuildings
+    4300004: Sidewalk
+    4300006: Street
+    4300008: pPlane10
+    4300010: pPlane11
+    4300012: pPlane12
+    4300014: pPlane13
+    4300016: pPlane14
+    4300018: pPlane15
+    4300020: pPlane16
+    4300022: pPlane9
+    4300024: pPlane8
+    4300026: pPlane7
+    4300028: pPlane6
+    4300030: pPlane5
+    4300032: pPlane4
+    4300034: pPlane3
+    4300036: pPlane2
+    4300038: pPlane1
+    4300040: pPlane17
+    4300042: pPlane10
+    4300044: pPlane11
+    4300046: pPlane12
+    4300048: pPlane13
+    4300050: pPlane14
+    4300052: pPlane15
+    4300054: pPlane16
+    4300056: pPlane9
+    4300058: pPlane8
+    4300060: pPlane7
+    4300062: pPlane6
+    4300064: pPlane5
+    4300066: pPlane4
+    4300068: pPlane3
+    4300070: pPlane2
+    4300072: pPlane1
+    4300074: pPlane17
+    4300076: pPlane10
+    4300078: pPlane11
+    4300080: pPlane12
+    4300082: pPlane13
+    4300084: pPlane14
+    4300086: pPlane15
+    4300088: pPlane16
+    4300090: pPlane9
+    4300092: pPlane8
+    4300094: pPlane7
+    4300096: pPlane6
+    4300098: pPlane5
+    4300100: pPlane4
+    4300102: pPlane3
+    4300104: pPlane2
+    4300106: pPlane1
+    4300108: pPlane17
+    4300110: pPlane10
+    4300112: pPlane11
+    4300114: pPlane12
+    4300116: pPlane13
+    4300118: pPlane14
+    4300120: pPlane15
+    4300122: pPlane16
+    4300124: pPlane9
+    4300126: pPlane8
+    4300128: pPlane7
+    4300130: pPlane6
+    4300132: pPlane5
+    4300134: pPlane4
+    4300136: pPlane3
+    4300138: pPlane2
+    4300140: pPlane1
+    4300142: pPlane17
+    4300144: Whitelines
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
